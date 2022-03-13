@@ -1,4 +1,4 @@
 # Projetos-Python
 meu primeiros inicios de python
 #  Meus primeiro projeto em python
-<img aling="rinht" alt="gif" windht="200" src="https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2021/02/nyan-cat-1.gif">
+<img aling="rinht" alt="gif" windht="200" src="https://dellentconsulting.com/wp-content/uploads/2020/02/sd.jpg">

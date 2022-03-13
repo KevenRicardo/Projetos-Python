@@ -1,0 +1,14 @@
+#Enprestimos valido ou não
+
+casa = float(input('Valor da casa?'))
+salario = float(input('Qual o salario do sinhor?'))
+anos = int(input('Quandos anos vai pagar?'))
+preco = casa / (anos * 12)
+minimo = salario * 30 / 100
+
+print ('Para vc pega uma casa de {}R$ em {} anos '.format(casa, anos), end= '')
+print ('A prestacão sera de {}R$'.format(preco))
+if preco <= minimo:
+    print ('VC FOI APROVADO PARA INPRESTIMO')
+else:
+    print ('VC NAO FOI APROVADO')
